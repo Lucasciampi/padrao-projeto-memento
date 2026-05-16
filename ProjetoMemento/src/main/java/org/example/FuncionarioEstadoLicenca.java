@@ -1,0 +1,21 @@
+package org.example;
+
+public class FuncionarioEstadoLicenca implements FuncionarioEstado {
+
+    private FuncionarioEstadoLicenca() {}
+
+    private static FuncionarioEstadoLicenca instance;
+
+    public static FuncionarioEstadoLicenca getInstance() {
+        if (instance == null) {
+            instance = new FuncionarioEstadoLicenca();
+        }
+        return instance;
+    }
+
+    @Override
+    public String getEstado() {
+        return "Licença";
+    }
+
+}
