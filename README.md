@@ -10,5 +10,4 @@ Diagrama de Estado:
 
 Diagrama de Classes:
 
-<img width="629" height="410" alt="image" src="https://github.com/user-attachments/assets/73ff1ed3-2e65-4bd2-b127-4b68a1a24370" />
-
+<img width="871" height="554" alt="image" src="https://github.com/user-attachments/assets/1e89dc6f-0d4a-4f4e-b47a-42690caab6bb" />
